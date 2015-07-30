@@ -1,4 +1,5 @@
 /**
+ * Insertion sort
  * March up the array and swap back as long as array[j] is smaller than array[j - 1]
  * O(n^2)
  * @param array
